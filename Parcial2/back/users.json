@@ -1,0 +1,24 @@
+[
+  {
+    "email": "juan",
+    "password": "123",
+    "fullName": "Juan Pablo",
+    "phoneNumber": "3022321928",
+    "role": "Admin",
+    "fcmTokens": [
+      "cBnH49HyQwKHD671MBzWl9:APA91bGubLoYbn1iQ8JKCcGnivL_TNVwsTQ82RpKsTkj6KOpEBujicbkHHOdvXdvXUeQElOzO7eZlGNJUv9hHx672izNQOCXKCeakOx2HXolnbXtWU6ycTjt5sWwrpU2iX88FsAV3ShF"
+    ],
+    "photo": "juan"
+  },
+  {
+    "email": "user",
+    "password": "123",
+    "fullName": "full name",
+    "phoneNumber": "12345769",
+    "role": "User",
+    "fcmTokens": [
+      "fE2jgLwBQ-mbg5wMk8b4aS:APA91bHtpKoev0G3tPTAo_Zj8ks5mJMEp_7bG55xyMn1Wmaexrr13h49X2iE37eilIVP64Ppn-NCFfPzEnjSS3LlHZqgjZRuu-j2oxhyFiXO3GjIQXmRhFNzKXZnmSDIRHeGciyjqAj8"
+    ],
+    "photo": "user"
+  }
+]
